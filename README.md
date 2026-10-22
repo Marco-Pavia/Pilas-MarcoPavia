@@ -5,7 +5,7 @@ Implementación de la estructura de datos **pila** (principio **LIFO**: *Last In
 - **Pila estática** (`PilaSimple`): basada en un arreglo de tamaño fijo.
 - **Pila dinámica** (`PilaDinamica`): basada en nodos enlazados.
 
-**Autor:** Víctor Ruiz R.
+**Autor:** Marco Antonio Pavia Flores.
 **Materia:** AED-1026 Estructura de Datos — Unidad 3
 **Institución:** Instituto Tecnológico Superior de Xalapa
 

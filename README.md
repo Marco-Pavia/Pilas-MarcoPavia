@@ -46,8 +46,8 @@ Implementación de la estructura de datos **pila** (principio **LIFO**: *Last In
 
 1. Clona el repositorio (o descarga los archivos en una misma carpeta):
    ```bash
-   git clone https://github.com/VictorRuizR/Pilas-Estaticas-y-Dinamicas.git
-   cd Pilas-Estaticas-y-Dinamicas
+   git clone https://github.com/Marco-Pavia/Pilas-MarcoPavia.git
+   cd Pilas-MarcoPavia
    ```
 2. Compila todos los archivos:
    ```bash
